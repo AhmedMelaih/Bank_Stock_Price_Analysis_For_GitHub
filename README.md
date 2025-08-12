@@ -1,4 +1,4 @@
-# 📈 Bank Stock Price Analysis
+# 📈 NBB Bank Stock Price Analysis
 
 ## Overview
 This project analyzes historical stock price data for major banking institutions, exploring trends, correlations, and performance metrics.
